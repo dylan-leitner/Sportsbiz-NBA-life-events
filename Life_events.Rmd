@@ -1,0 +1,103 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r, message=FALSE, warning=FALSE}
+library(mdsr)
+library(readr)
+library(dplyr)
+```
+
+```{r}
+Allstar_season <- read_csv("~/R/SportsBiz/Allstar/Allstar_season.csv")
+View(Allstar_season)
+##Import CSV with player information from years 2010-2018 extracted from NBA.com and Basketball Reference.
+```
+
+```{r}
+Null_Life_event <- Allstar_season %>% filter(Life_Event == 'Null')
+View(Null_Life_event)
+##Create data frame consisting of players with no life 'event'.
+```
+
+```{r}
+Allstar_season <- Allstar_season %>% filter(Life_Event != 'Null') %>% mutate(Event = (ifelse(Life_Event %in% c("Birth", "Married"), "Positive", "Negative")))  %>% mutate(PM_difference = PM_monthafter - PM_monthprev)
+View(Allstar_season)
+##First filter out all players with no life 'event' to create a new Allstar_season data frame.
+##Use ifelse statement to classify life events into 'positive' and 'negative'.
+##PM_monthafter refers to the player plus-minus the month after their life 'event'.
+##PM_monthprev refers to the player plus-minus the month  before their life 'event'.
+##Use Mutate to create and calculate the difference in plus-minus from the month after and month before.  This new column which represents player performance is called PM_difference. NOTE: A positive PM_difference correlates to a better performance after the event.    
+```
+
+```{r}
+Allstar_season.aov <- aov(PM_difference ~ Event + Life_Event, Allstar_season)
+summary(Allstar_season.aov)
+TukeyHSD(Allstar_season.aov, data = Allstar_season)
+##Run a analysis of variance to understand whether positive or negative events affect player performance(PM_difference).
+##Also run a analysis of variance to understand whether Life_event(Birth, Marraige, Death, Divorce, and Cancer) affects player performance(PM_difference).
+```
+
+```{r}
+tally(Allstar_season$Event)
+tally(Allstar_season$Allstar_year)
+mean(Allstar_season$PM_difference)
+```
+
+```{r}
+Event_breakdown <- read_csv("~/R/SportsBiz/Allstar/Tally.csv")
+head(Event_breakdown)
+##Import CSV with Event information from years 2010-2018.
+```
+
+```{r}
+Event_breakdown <- Event_breakdown %>% mutate(Tot_Percentage = (Tally/111)*100)
+View(Event_breakdown)
+##Create new column with percentage totals of events to better understand breakdown.
+```
+
+```{r}
+ggplot(Event_breakdown, aes(Event, Tally)) + geom_bar(stat = "identity") +
+  xlab("Event") + 
+  ylab("Count") +
+  ggtitle("Event Breakdown") + 
+  theme_bw()
+##Graph Event vs. Tally from Event_Breakdown data frame.
+ggplot(Event_breakdown, aes(Event, Tally)) + geom_bar(stat = "identity") + facet_wrap(~ Year_time) +
+  xlab("Event") + 
+  ylab("Count") +
+  ggtitle("Event Breakdown by Time of Year") + 
+  theme_bw()
+##Graph Event vs. Tally by Time of Year, splitting the data by 'Summer' and 'Season' from Event_Breakdown data frame.
+ggplot(Event_breakdown, aes(Event, Tot_Percentage)) + geom_bar(stat = "identity") + facet_wrap(~ Year_time)+
+  xlab("Event") + 
+  ylab("Percentage") +
+  ggtitle("Event Breakdown by Percentage") + 
+  theme_bw()
+##Graph Event vs. Total Percentage by Time of Year, splitting the data by 'Summer' and 'Season' from Event_Breakdown data frame.
+ggplot(Event_breakdown, aes(Year_time, Tally)) + geom_bar(stat = "identity", fill = 'blue') +
+  xlab("Time of Year") + 
+  ylab("Count") +
+  ggtitle("Time of Year Breakdown") + 
+  theme_bw()
+##Graph 'Summer' and 'Season' totals
+```
+
+```{r}
+ggplot(Allstar_season, aes(Allstar_year)) + geom_bar(fill = 'red') + scale_y_continuous(limits=c(0, 60)) +
+  xlab("Allstar Year") + 
+  ylab("Count") +
+  ggtitle("Did the life event occur during the NBA players Allstar year?") + 
+  theme_bw()
+##Graph whether or not NBA players were voted to the allstar game during the year they had their life event.
+##Use scale_y_continuous to change y axis to fit data.
+ggplot(Allstar_season, aes(Position)) + geom_bar(fill = 'black') +
+  xlab("Position") + 
+  ylab("Count") +
+  ggtitle("2010-2018 Position Breakdown") + 
+  theme_bw()
+##Graph position breakdown of all players from 2010-2018.
+```
+

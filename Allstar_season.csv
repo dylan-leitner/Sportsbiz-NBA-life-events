@@ -1,0 +1,137 @@
+Player,Position,WT,Team,Conference,NBA_Draft_Status,Allstar_year,Life_Event,Event_date,PM_monthprev,PM_monthafter
+Giannis Antetokounmpo,F,222,Milwaukee Bucks,Eastern ,2013 Rnd 1 Pick 15,,Null,,,
+Jimmy Butler,GF,231,Minnesota Timberwolves,Western,2011 Rnd 1 Pick 30,,Null,,,
+Joel Embiid,C,250,Philadelphia Sixers,Eastern,2014 Rnd 1 Pick 3,,Null,,,
+Karl-Anthony Towns,C,244,Minnesota Timberwolves,Western,2015 Rnd 1 Pick 1,,Null,,,
+Bradley Beal,SG,207,Washington Wizards,Eastern,2012 Rnd 1 Pick 3,,Null,,,
+Goran Dragic,G,190,Miami Heat,Eastern,2008 Rnd 2 Pick 15,No,Birth,11/1/2013,2.7,4.9
+Goran Dragic,G,190,Miami Heat,Eastern,2008 Rnd 2 Pick 15,No,Birth,8/1/2015,-5.3,2.4
+Goran Dragic,G,190,Miami Heat,Eastern,2008 Rnd 2 Pick 15,No,Married,8/1/2013,2.7,4.9
+Victor Oladipo,G,210,Indiana Pacers,Eastern,2013 Rnd 1 Pick 2,,Null,,,
+Kristaps Porzingis,FC,240,New York Knicks,Eastern,2015 Rnd 1 Pick 4,,Null,,,
+DeMarcus Cousins,C,270,Sacramento Kings,Western,2010 Rnd 1 Pick 5,,Null,,,
+Stephen Curry,G,190,Golden State Warriors,Western,2009 Rnd 1 Pick 7,No,Married,7/30/2011,6.7,-5.3
+Stephen Curry,G,190,Golden State Warriors,Western,2009 Rnd 1 Pick 7,No,Birth,7/19/2012,7.5,0.6
+Stephen Curry,G,190,Golden State Warriors,Western,2009 Rnd 1 Pick 7,Yes,Birth,7/10/2015,9,15.9
+Anthony Davis,PF,253,New Orleans Pelicans,Western,2012 Rnd 1 Pick 1,,Null,,,
+Kevin Durant,SF,240,Golden State Warriors,Western,2007 Rnd 1 Pick 2,,Null,,,
+Marc Gasol,C,255,Memphis Grizzlies,Western,2007 Rnd 2 Pick 18,No,Married,7/7/2013,7.1,0.3
+Marc Gasol,C,255,Memphis Grizzlies,Western,2007 Rnd 2 Pick 18,Yes,Birth,9/1/2014,3.5,7.3
+Draymond Green,F,230,Golden State Warriors,Western,2012 Rnd 2 Pick 5,Yes,Birth,12/22/2016,13.2,10.2
+James Harden,SG,220,Houston Rockets,Western,2009 Rnd 1 Pick 3,,Null,,,
+Gordon Hayward,GF,225,Utah Jazz,Western,2010 Rnd 1 Pick 9,No,Married,5/24/2014,-7.9,-0.5
+Gordon Hayward,GF,225,Utah Jazz,Western,2010 Rnd 1 Pick 9,No,Birth,6/6/2015,-2.2,1
+Gordon Hayward,GF,225,Utah Jazz,Western,2010 Rnd 1 Pick 9,Yes,Birth,7/11/2016,4.7,8.9
+DeAndre Jordan,C,265,Los Angeles Clippers,Western,2008 Rnd 2 Pick 5,Yes,Birth,4/20/2016,3.5,15.8
+Kawhi Leonard,F,230,San Antonio Spurs,Western,2011 Rnd 1 Pick 15,Yes,Birth,7/1/2016,-6,0.5
+Klay Thompson,G,215,Golden State Warriors,Western,2011 Rnd 1 Pick 11,,Null,,,
+Russell Westbrook,G,200,Oklahoma City Thunder,Western,2008 Rnd 1 Pick 4,Yes,Birth,5/16/2017,1,6.7
+Russell Westbrook,G,200,Oklahoma City Thunder,Western,2008 Rnd 1 Pick 4,Yes,Married,8/29/2015,2,8.3
+Carmelo Anthony,F,240,New York Knicks,Eastern ,2003 Rnd 1 Pick 3,Yes,Birth,3/7/2007,-1.8,4.5
+Carmelo Anthony,F,240,New York Knicks,Eastern ,2003 Rnd 1 Pick 3,Yes,Married,7/10/2010,-1.7,0.5
+DeMar DeRozan,GF,221,Toronto Raptors,Eastern ,2009 Rnd 1 Pick 9,Yes,Birth,5/12/2013,4.7,-0.5
+Paul George,GF,220,Indiana Pacers,Eastern ,2010 Rnd 1 Pick 10,No,Birth,5/1/2014,-3,2.5
+Kyrie Irving,G,193,Cleveland Cavaliers,Eastern ,2011 Rnd 1 Pick 1,No,Birth,11/23/2015,5.2,7
+LeBron James,F,250,Cleveland Cavaliers,Eastern ,2003 Rnd 1 Pick 1,Yes,Birth,6/14/2007,10.3,3
+LeBron James,F,250,Cleveland Cavaliers,Eastern ,2003 Rnd 1 Pick 1,Yes,Birth,10/6/2004,-2.8,7.9
+LeBron James,F,250,Cleveland Cavaliers,Eastern ,2003 Rnd 1 Pick 1,Yes,Birth,10/22/2014,2.4,4.7
+LeBron James,F,250,Cleveland Cavaliers,Eastern ,2003 Rnd 1 Pick 1,Yes,Married,9/14/2013,14.3,6.4
+Kevin Love,FC,251,Cleveland Cavaliers,Eastern ,2008 Rnd 1 Pick 5,,Null,,,
+Kyle Lowry,PG,196,Toronto Raptors,Eastern ,2006 Rnd 1 Pick 24,Yes,Birth,7/15/2015,-2,5.8
+Paul Millsap,FC,246,Atlanta Hawks,Eastern ,2006 Rnd 2 Pick 17,,Null,,,
+Isaiah Thomas,PG,185,Boston Celtics,Eastern ,2011 Rnd 2 Pick 30,Yes,Married,8/19/2016,0.9,-1.1
+Isaiah Thomas,PG,185,Boston Celtics,Eastern ,2011 Rnd 2 Pick 30,No,Birth,1/29/2012,-3.3,2.5
+Kemba Walker,G,184,Charlotte Hornets,Eastern ,2011 Rnd 1 Pick 9,,Null,,,
+John Wall,PG,210,Washington Wizards,Eastern ,2010 Rnd 1 Pick 1,,Null,,,
+Chris Bosh,PF,235,Miami Heat,Eastern ,2003 Rnd 1 Pick 4,Yes,Married,7/16/2011,11.2,7.8
+Chris Bosh,PF,235,Miami Heat,Eastern ,2003 Rnd 1 Pick 4,Yes,Birth,5/3/2012,6.4,6.1
+Chris Bosh,PF,235,Miami Heat,Eastern ,2003 Rnd 1 Pick 4,Yes,Birth,11/2/2008,8.5,-2.1
+Chris Bosh,PF,235,Miami Heat,Eastern ,2003 Rnd 1 Pick 4,Yes,Birth,11/4/2013,-2.5,6.1
+Andre Drummond,C,279,Detroit Pistons,Eastern ,2012 Rnd 1 Pick 9,,Null,,,
+Pau Gasol,FC,250,Chicago Bulls,Eastern ,2001 Rnd 1 Pick 3,,Null,,,
+Al Horford,FC,245,Atlanta Hawks,Eastern ,2007 Rnd 1 Pick 3,Yes,Birth,2/23/2015,9.3,-1.5
+Al Horford,FC,245,Atlanta Hawks,Eastern ,2007 Rnd 1 Pick 3,No,Married,7/16/2011,-8.7,4.3
+Dwyane Wade,SG,220,Miami Heat,Eastern ,2003 Rnd 1 Pick 5,Yes,Divorced,6/25/2010,7.3,0.8
+Dwyane Wade,SG,220,Miami Heat,Eastern ,2003 Rnd 1 Pick 5,Yes,Birth,5/29/2007,-2.8,-1
+Dwyane Wade,SG,220,Miami Heat,Eastern ,2003 Rnd 1 Pick 5,Yes,Married,8/30/2014,-12,0.8
+Dwyane Wade,SG,220,Miami Heat,Eastern ,2003 Rnd 1 Pick 5,Yes,Birth,11/10/2013,2,4.4
+LaMarcus Aldridge,FC,260,San Antonio Spurs,Western ,2006 Rnd 1 Pick 2,Yes,Birth,7/31/2011,2.8,5.7
+LaMarcus Aldridge,FC,260,San Antonio Spurs,Western ,2006 Rnd 1 Pick 2,No,Birth,4/1/2009,7.7,5.2
+Kobe Bryant,SG,212,Los Angeles Lakers,Western ,1996 Rnd 1 Pick 13,Yes,Married,4/18/2001,8.7,8.6
+Kobe Bryant,SG,212,Los Angeles Lakers,Western ,1996 Rnd 1 Pick 13,Yes,Birth,1/19/2003,-0.9,8.7
+Kobe Bryant,SG,212,Los Angeles Lakers,Western ,1996 Rnd 1 Pick 13,Yes,Birth,5/1/2006,12.6,3
+Chris Paul,PG,175,Los Angeles Clippers,Western ,2005 Rnd 1 Pick 4,Yes,Married,9/10/2011,-0.4,10.8
+Chris Paul,PG,175,Los Angeles Clippers,Western ,2005 Rnd 1 Pick 4,Yes,Birth,5/23/2009,0.7,-3.8
+Chris Paul,PG,175,Los Angeles Clippers,Western ,2005 Rnd 1 Pick 4,Yes,Birth,8/16/2012,3.8,3.6
+Kyle Korver,SF,212,Atlanta Hawks,Eastern,2003 Rnd 2 Pick 22,No,Married,8/10/2011,5.4,1.3
+Kyle Korver,SF,212,Atlanta Hawks,Eastern,2003 Rnd 2 Pick 22,No,Birth,12/5/2012,4.2,2.3
+Kyle Korver,SF,212,Atlanta Hawks,Eastern,2003 Rnd 2 Pick 22,No,Birth,10/5/2013,0.2,2.3
+Kyle Korver,SF,212,Atlanta Hawks,Eastern,2003 Rnd 2 Pick 22,No,Birth,11/6/2016,3,-7.5
+Jeff Teague,PG,186,Atlanta Hawks,Eastern,2009 Rnd 1 Pick 19,,Null,,,
+Tim Duncan,FC,250,San Antonio Spurs,Western,1997 Rnd 1 Pick 1,Yes,Married,7/21/2001,10.9,7.5
+Tim Duncan,FC,250,San Antonio Spurs,Western,1997 Rnd 1 Pick 1,No,Divorced,8/21/2013,3,5.8
+Tim Duncan,FC,250,San Antonio Spurs,Western,1997 Rnd 1 Pick 1,Yes,Birth,8/10/2005,2.3,8.4
+Tim Duncan,FC,250,San Antonio Spurs,Western,1997 Rnd 1 Pick 1,Yes,Birth,8/10/2005,2.3,8.4
+Blake Griffin,PF,251,Los Angeles Clippers,Western,2009 Rnd 1 Pick 1,Yes,Birth,8/10/2013,5.3,6.1
+Blake Griffin,PF,251,Los Angeles Clippers,Western,2009 Rnd 1 Pick 1,No,Birth,9/22/2016,14.6,12.6
+Damian Lillard,G,195,Portland Trail Blazers,Western,2012 Rnd 1 Pick 6,,Null,,,
+Dirk Nowitzki,PF,245,Dallas Mavericks,Western,1998 Rnd 1 Pick 9,No,Married,7/20/2012,6.3,-12
+Dirk Nowitzki,PF,245,Dallas Mavericks,Western,1998 Rnd 1 Pick 9,Yes,Birth,3/24/2015,2.5,8.6
+Dirk Nowitzki,PF,245,Dallas Mavericks,Western,1998 Rnd 1 Pick 9,No,Birth,11/11/2016,-1,-9.8
+Dirk Nowitzki,PF,245,Dallas Mavericks,Western,1998 Rnd 1 Pick 9,Yes,Birth,7/1/2013,4.8,3.6
+Dwight Howard,C,265,Houston Rockets,Western,2004 Rnd 1 Pick 1,Yes,Birth,11/18/2007,12.6,0.5
+Dwight Howard,C,265,Houston Rockets,Western,2004 Rnd 1 Pick 1,Yes,Birth,11/1/2010,4.5,-0.1
+Dwight Howard,C,265,Houston Rockets,Western,2004 Rnd 1 Pick 1,Yes,Birth,10/1/2010,13.1,6.8
+Dwight Howard,C,265,Houston Rockets,Western,2004 Rnd 1 Pick 1,No,Birth,6/1/2015,5.5,-1.6
+Tony Parker,G,185,San Antonio Spurs,Western,2001 Rnd 1 Pick 28,No,Married,8/2/2014,-1.5,4.6
+Tony Parker,G,185,San Antonio Spurs,Western,2001 Rnd 1 Pick 28,Yes,Birth,4/30/2014,9.5,4.6
+Tony Parker,G,185,San Antonio Spurs,Western,2001 Rnd 1 Pick 28,No,Birth,7/29/2016,-3,5.9
+Tony Parker,G,185,San Antonio Spurs,Western,2001 Rnd 1 Pick 28,No,Married,7/6/2007,6.5,7.1
+Tony Parker,G,185,San Antonio Spurs,Western,2001 Rnd 1 Pick 28,No,Divorced,1/28/2011,1.7,4
+Roy Hibbert,C,270,Indiana Pacers,Eastern,2008 Rnd 1 Pick 17,No,Married,9/20/2014,-3.5,-3.5
+Joe Johnson,SG,240,Brooklyn Nets,Eastern,2001 Rnd 1 Pick 10,,Null,,,
+Joakim Noah,FC,230,Chicago Bulls,Eastern,2007 Rnd 1 Pick 9,No,Birth,9/27/2016,-1.8,-2.3
+David Lee,FC,245,Golden State Warriors,Western,2005 Rnd 1 Pick 30,,Null,,,
+Zach Randolph,PF,260,Memphis Grizzlies,Western,2001 Rnd 1 Pick 19,No,Married,8/10/2014,4.1,8.8
+Zach Randolph,PF,260,Memphis Grizzlies,Western,2001 Rnd 1 Pick 19,No,Birth,11/6/2014,4.1,4.1
+Tyson Chandler,C,240,New York Knicks,Eastern,2001 Rnd 1 Pick 2,No,Birth,5/6/2006,3.5,0.4
+Tyson Chandler,C,240,New York Knicks,Eastern,2001 Rnd 1 Pick 2,No,Birth,11/27/2008,9.2,6
+Luol Deng,GF,220,Chicago Bulls,Eastern,2004 Rnd 1 Pick 7,,Null,,,
+Kevin Garnett,PF,240,Boston Celtics,Eastern,1995 Rnd 1 Pick 5,Yes,Birth,4/18/2008,12.8,8
+Kevin Garnett,PF,240,Boston Celtics,Eastern,1995 Rnd 1 Pick 5,Yes,Married,8/10/2004,13.8,6.1
+Jrue Holiday,G,205,Philadelphia Sixers,Eastern,2009 Rnd 1 Pick 17,No,Married,7/7/2013,-2.6,3.1
+Jrue Holiday,G,205,Philadelphia Sixers,Eastern,2009 Rnd 1 Pick 17,No,Birth,9/20/2016,-4,6.1
+Jrue Holiday,G,205,Philadelphia Sixers,Eastern,2009 Rnd 1 Pick 17,No,Cancer,10/20/2016,-4,-3.5
+Brook Lopez,C,268,Brooklyn Nets,Eastern,2008 Rnd 1 Pick 10,,Null,,,
+Rajon Rondo,PG,186,Boston Celtics,Eastern,2006 Rnd 1 Pick 21,No,Birth,2/6/2008,6.4,11.9
+Andre Iguodala,SF,215,Philadelphia Sixers,Eastern,2004 Rnd 1 Pick 9,No,Married,8/10/2015,0,12.4
+Andre Iguodala,SF,215,Philadelphia Sixers,Eastern,2004 Rnd 1 Pick 9,No,Birth,5/7/2009,-2.6,-7.5
+Andre Iguodala,SF,215,Philadelphia Sixers,Eastern,2004 Rnd 1 Pick 9,No,Birth,3/24/2007,-1.2,-3.3
+Paul Pierce,SF,235,Boston Celtics,Eastern,1998 Rnd 1 Pick 10,Yes,Married,7/17/2010,-1.9,11.6
+Paul Pierce,SF,235,Boston Celtics,Eastern,1998 Rnd 1 Pick 10,Yes,Birth,4/4/2008,13.5,6.2
+Paul Pierce,SF,235,Boston Celtics,Eastern,1998 Rnd 1 Pick 10,Yes,Birth,5/21/2011,7.5,3.3
+Paul Pierce,SF,235,Boston Celtics,Eastern,1998 Rnd 1 Pick 10,No,Birth,4/2/2013,2.9,-3.6
+Derrick Rose,PG,190,Chicago Bulls,Eastern,2008 Rnd 1 Pick 1,No,Married,11/22/2017,-6.7,3
+Deron Williams,PG,200,New Jersey Nets,Eastern,2005 Rnd 1 Pick 3,Yes,Birth,3/10/2011,-6.9,-10.7
+Deron Williams,PG,200,New Jersey Nets,Eastern,2005 Rnd 1 Pick 3,No,Married,7/19/2006,1.1,-0.5
+Deron Williams,PG,200,New Jersey Nets,Eastern,2005 Rnd 1 Pick 3,No,Birth,7/21/2006,1.1,-0.5
+Deron Williams,PG,200,New Jersey Nets,Eastern,2005 Rnd 1 Pick 3,No,Birth,5/30/2009,-2.6,4.7
+Andrew Bynum,C,285,Los Angeles Lakers,Western,2005 Rnd 1 Pick 10,,Null,,,
+Steve Nash,G,178,Phoenix Suns,Western,1996 Rnd 1 Pick 15,Yes,Married,6/11/2005,10,0.2
+Steve Nash,G,178,Phoenix Suns,Western,1996 Rnd 1 Pick 15,Yes,Birth,10/14/2004,4,11.5
+Steve Nash,G,178,Phoenix Suns,Western,1996 Rnd 1 Pick 15,Yes,Birth,10/14/2004,4,11.5
+Steve Nash,G,178,Phoenix Suns,Western,1996 Rnd 1 Pick 15,No,Birth,11/12/2010,5,2.6
+Steve Nash,G,178,Phoenix Suns,Western,1996 Rnd 1 Pick 15,No,Divorced,11/12/2010,5,2.6
+Manu Ginobili,SG,205,San Antonio Spurs,Western,1999 Rnd 2 Pick 28,No,Married,7/1/2004,7.7,10.6
+Manu Ginobili,SG,205,San Antonio Spurs,Western,1999 Rnd 2 Pick 28,No,Birth,5/16/2010,9.4,9.7
+Manu Ginobili,SG,205,San Antonio Spurs,Western,1999 Rnd 2 Pick 28,No,Birth,5/16/2010,9.4,9.7
+Manu Ginobili,SG,205,San Antonio Spurs,Western,1999 Rnd 2 Pick 28,No,Birth,4/21/2014,7.3,8.1
+Yao Ming,C,310,Houston Rockets,Western,2002 Rnd 1 Pick 1,Yes,Married,8/10/2007,4,1.4
+Ray Allen,SG,205,Boston Celtics,Eastern,1996 Rnd 1 Pick 5,Yes,Married,8/6/2008,6.7,9.3
+Ray Allen,SG,205,Boston Celtics,Eastern,1996 Rnd 1 Pick 5,No,Birth,6/26/2009,2,7.1
+Ray Allen,SG,205,Boston Celtics,Eastern,1996 Rnd 1 Pick 5,Yes,Birth,12/27/2006,-0.3,-3.4
+Ray Allen,SG,205,Boston Celtics,Eastern,1996 Rnd 1 Pick 5,No,Birth,1/25/2012,3.3,-1.1
+Ray Allen,SG,205,Boston Celtics,Eastern,1996 Rnd 1 Pick 5,Yes,Birth,9/1/2004,6.1,8.1
+Amar'e Stoudemire,FC,245,New York Knicks,Eastern,2002 Rnd 1 Pick 9,No,Married,12/12/2012,-0.2,1.3
+Amar'e Stoudemire,FC,245,New York Knicks,Eastern,2002 Rnd 1 Pick 9,No,Birth,5/22/2013,7.2,-7.6
+Amar'e Stoudemire,FC,245,New York Knicks,Eastern,2002 Rnd 1 Pick 9,No,Death,2/6/2012,-1.2,0.7
